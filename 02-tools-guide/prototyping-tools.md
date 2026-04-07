@@ -1,67 +1,148 @@
 # Prototyping tools
 
-Chọn tool theo POC option của nhóm. Không cần dùng hết — chọn 1-2 tool quen nhất.
-
-## Tool theo POC option
-
-| Option | Tool | Mô tả | Link |
-|---|---|---|---|
-| **A — Prompt-based** | ChatGPT / Claude | Demo trực tiếp trong chat | chatgpt.com / claude.ai |
-| **A — Prompt-based** | Streamlit | UI Python nhanh, 1 file | streamlit.io |
-| **A — Prompt-based** | Gradio | UI cho ML demo | gradio.app |
-| **A — Prompt-based** | Google Colab | Notebook online, free GPU | colab.research.google.com |
-| **B — Mock flow** | Figma | Clickable prototype | figma.com |
-| **B — Mock flow** | Canva | Mock screens nhanh | canva.com |
-| **B — Mock flow** | Loom | Record walkthrough video | loom.com |
-| **C — Working code** | Cursor | AI-assisted coding | cursor.com |
-| **C — Working code** | v0 | Generate UI từ prompt | v0.dev |
-| **C — Working code** | Replit | Online IDE, easy deploy | replit.com |
+Chọn tool theo level prototype của nhóm. Không cần dùng hết — chọn 1-2 tool quen nhất.
 
 ---
 
-## Chi tiết từng tool
+## 3 levels prototype
 
-### Option A — Prompt-based
+| Level | Mô tả | Ví dụ | Điểm |
+|-------|-------|-------|------|
+| **Sketch** | Vẽ/draft flow trên giấy, slides, whiteboard. Chưa build gì. | Vẽ user journey trên giấy A3: user mở app → nhập triệu chứng → AI gợi ý khoa → user chọn → đặt lịch | Đủ điểm |
+| **Mock prototype** | UI/flow build được (HTML, app) nhưng chưa gắn AI thật. Dùng tools: Antigravity, Claude, v0, Figma... | App HTML có form nhập triệu chứng, hiện kết quả mẫu, flow click được — nhưng chưa gọi API AI | Đủ điểm |
+| **Working prototype** | Có AI chạy thật. Input → AI xử lý → output. Demo live được. | App gọi Gemini API: user nhập triệu chứng → AI phân tích → trả gợi ý khoa + confidence score | **Bonus điểm** |
 
-**ChatGPT / Claude:**
-Cách nhanh nhất để demo AI product. Viết system prompt tốt, tạo custom GPT hoặc Claude Project, share link cho người xem thử. Phù hợp khi product chính là chatbot hoặc Q&A. Bắt đầu: vào ChatGPT → Explore GPTs → Create, hoặc Claude → Projects → New.
+**Lưu ý:**
+- Sketch + Mock: vẫn phải có ít nhất 1 prompt/AI call chạy thật kèm theo (chạy riêng, show bên cạnh)
+- Working prototype: dùng vibe-coding tools (Cursor, Claude Code, Replit Agent...) hoàn toàn OK
+- Mọi level: mỗi người giải thích được phần mình làm. Không hiểu = 0 điểm demo
 
-**Streamlit:**
-Framework Python tạo web app từ 1 file. Kéo thả input, hiện output, deploy free trên Streamlit Cloud. Phù hợp khi cần UI đẹp hơn chat nhưng không muốn viết frontend. Bắt đầu: `pip install streamlit` → viết `app.py` → `streamlit run app.py`.
+---
 
-**Gradio:**
-Tương tự Streamlit nhưng thiên về ML demo. Tự tạo input/output interface. Phù hợp khi demo model xử lý ảnh, text, audio. Bắt đầu: `pip install gradio` → dùng `gr.Interface()` wrap function.
+## Tools cho mock prototype
 
-**Google Colab:**
-Jupyter notebook online, free GPU. Phù hợp khi cần chạy code nặng hoặc show notebook cho người khác. Bắt đầu: vào colab.research.google.com → New notebook → chạy cell.
+Build UI/flow nhanh, chưa cần gắn AI.
 
-### Option B — Mock flow
+### Antigravity (Google)
 
-**Figma:**
-Design tool tạo clickable prototype. Vẽ màn hình → nối flow → share link test. Phù hợp khi muốn show trải nghiệm user hoàn chỉnh mà chưa cần code. Bắt đầu: tạo account free → dùng template có sẵn.
+AI app builder — mô tả app bằng text, Antigravity generate full web app chạy được. Kéo thả chỉnh sửa, export HTML.
 
-**Canva:**
-Tạo mock screens nhanh bằng drag-and-drop. Phù hợp khi cần poster, slides, hoặc mock UI đơn giản. Bắt đầu: chọn template "Mobile App" hoặc "Presentation".
+- **Tốt cho:** mock prototype nhanh, không cần code
+- **Bắt đầu:** mô tả app muốn tạo → chỉnh layout → export/share link
 
-**Loom:**
-Record màn hình + giọng nói. Phù hợp khi demo flow phức tạp hoặc cần record backup phòng internet chết. Bắt đầu: cài extension Chrome → bấm record.
+### Claude Artifacts
 
-### Option C — Working code (bonus)
+Mô tả UI trong Claude chat → Claude generate HTML/React chạy trực tiếp trong conversation. Copy code ra file hoặc screenshot.
 
-**Cursor:**
-VS Code + AI coding assistant. Viết code nhanh hơn với AI autocomplete và chat. Phù hợp khi nhóm có dev experience. Bắt đầu: download → mở project → dùng Cmd+K để generate code.
+- **Tốt cho:** mock nhanh 1-2 màn hình, iterate bằng chat
+- **Bắt đầu:** vào claude.ai → mô tả màn hình muốn tạo → Claude render artifact
 
-**v0 (Vercel):**
-Generate React UI từ text prompt. Paste mô tả → ra code chạy được. Phù hợp khi cần frontend đẹp mà không rành React. Bắt đầu: vào v0.dev → mô tả UI muốn tạo.
+### v0 (Vercel)
 
-**Replit:**
-Online IDE, code + deploy 1 chỗ. Phù hợp khi nhóm muốn code cùng lúc (multiplayer) hoặc cần deploy nhanh. Bắt đầu: tạo Repl → chọn template → code → bấm Run.
+Generate React UI từ text prompt. Paste mô tả → ra component chạy được. Deploy free.
+
+- **Tốt cho:** frontend đẹp mà không rành React
+- **Bắt đầu:** vào v0.dev → mô tả UI → chỉnh sửa → deploy
+
+### Figma
+
+Design tool tạo clickable prototype. Vẽ màn hình → nối flow → share link test.
+
+- **Tốt cho:** show trải nghiệm user hoàn chỉnh, đặc biệt mobile app
+- **Bắt đầu:** tạo account free → dùng template có sẵn → Prototype mode
+
+### Canva
+
+Tạo mock screens nhanh bằng drag-and-drop. Template sẵn cho mobile app, web, slides.
+
+- **Tốt cho:** poster, slides, mock UI đơn giản
+- **Bắt đầu:** chọn template "Mobile App" hoặc "Presentation"
+
+---
+
+## Tools cho working prototype
+
+Build prototype có AI chạy thật.
+
+### Google AI Studio (Gemini)
+
+Test prompt Gemini trực tiếp trên web. Tạo structured prompt, few-shot examples, tune parameter. Share link prompt.
+
+- **Tốt cho:** test nhanh Gemini models, không cần code
+- **Bắt đầu:** vào aistudio.google.com → New prompt → chọn model → test
+
+### Stitch (Google)
+
+Full-stack app builder có tích hợp Gemini. Mô tả app → Stitch generate code + database + API + UI. Deploy trực tiếp.
+
+- **Tốt cho:** working prototype cần backend + database + AI
+- **Bắt đầu:** mô tả app → chỉnh sửa → connect Gemini API → deploy
+
+### ChatGPT Custom GPTs
+
+Tạo custom GPT với system prompt + knowledge files. Share link cho người dùng thử.
+
+- **Tốt cho:** chatbot, Q&A, trợ lý chuyên ngành
+- **Bắt đầu:** ChatGPT → Explore GPTs → Create → viết instructions
+
+### Claude Projects
+
+Tạo Claude project với system prompt + knowledge files. Invite người khác dùng thử.
+
+- **Tốt cho:** chatbot, phân tích, tổng hợp document
+- **Bắt đầu:** claude.ai → Projects → New → thêm instructions + files
+
+### Streamlit
+
+Framework Python tạo web app từ 1 file. Deploy free trên Streamlit Cloud.
+
+- **Tốt cho:** UI đẹp hơn chat, cần custom logic
+- **Bắt đầu:** `pip install streamlit` → viết `app.py` → `streamlit run app.py`
+
+### Replit / Replit Agent
+
+Online IDE, code + deploy 1 chỗ. Replit Agent: mô tả app bằng text → Agent viết code cho bạn.
+
+- **Tốt cho:** code cùng lúc (multiplayer), deploy nhanh, không cần setup local
+- **Bắt đầu:** tạo Repl → chọn template hoặc dùng Agent → code → bấm Run
+
+### Cursor
+
+VS Code + AI coding. Viết code nhanh với AI autocomplete, chat, và Composer (multi-file edit).
+
+- **Tốt cho:** nhóm có dev experience, project phức tạp hơn
+- **Bắt đầu:** download → mở project → Cmd+K generate code
+
+### Google Colab
+
+Jupyter notebook online, free GPU. Chạy Python + gọi API trực tiếp.
+
+- **Tốt cho:** demo xử lý data, gọi API, show kết quả inline
+- **Bắt đầu:** colab.research.google.com → New notebook → code
+
+---
+
+## Tools hỗ trợ
+
+| Tool | Dùng cho |
+|------|----------|
+| **Loom** | Record màn hình + giọng — backup demo phòng internet chết |
+| **Excalidraw** | Vẽ diagram, flow nhanh trên web (free, hand-drawn style) |
+| **Mermaid.js** | Vẽ flowchart bằng code — render trên GitHub, mermaid.live |
 
 ---
 
 ## Gợi ý chọn nhanh
 
-- Chưa biết code → **Option B** (Figma/Canva) + 1 prompt test thật
-- Biết Python cơ bản → **Option A** (Streamlit hoặc Colab)
-- Dev experience → **Option C** (Cursor + Replit)
-- Bất kể option nào: phải có **ít nhất 1 prompt/AI call chạy thật**
+| Nhóm kiểu | Tool đề xuất | Level |
+|------------|-------------|-------|
+| Chưa biết code | Antigravity / Claude / Figma | Mock prototype |
+| Biết prompt, chưa biết code | AI Studio / Custom GPT / Claude Project | Working prototype |
+| Biết Python cơ bản | Streamlit / Colab + API | Working prototype |
+| Dev experience | Cursor / Replit / Stitch | Working prototype |
+
+Bất kể chọn gì: phải demo được trong 2 phút + mỗi người giải thích được phần mình.
+
+---
+
+*Prototyping tools — Hackathon Day 6 — VinUni A20 — AI Thực Chiến · 2026*
