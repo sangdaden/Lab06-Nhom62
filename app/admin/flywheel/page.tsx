@@ -1,9 +1,19 @@
 import { prisma } from "@/lib/db/client";
 import { ShieldAlert, Zap, Star, BookOpen, TrendingUp } from "lucide-react";
-import { QualityTrendChart } from "@/components/admin/QualityTrendChart";
-import { GoldenExampleTable } from "@/components/admin/GoldenExampleTable";
+import dynamic from "next/dynamic";
 import { PromoteButton } from "@/components/admin/PromoteButton";
 import type { TrendPoint } from "@/components/admin/QualityTrendChart";
+
+// recharts uses browser APIs — must disable SSR
+const QualityTrendChart = dynamic(
+  () => import("@/components/admin/QualityTrendChart").then((m) => m.QualityTrendChart),
+  { ssr: false, loading: () => <div className="h-64 flex items-center justify-center text-[#9AA5B1] text-sm">Đang tải chart...</div> }
+);
+
+const GoldenExampleTable = dynamic(
+  () => import("@/components/admin/GoldenExampleTable").then((m) => m.GoldenExampleTable),
+  { ssr: false, loading: () => <div className="h-32 flex items-center justify-center text-[#9AA5B1] text-sm">Đang tải...</div> }
+);
 
 const ADMIN_KEY = process.env.ADMIN_KEY ?? "vinmec-demo-2026";
 
