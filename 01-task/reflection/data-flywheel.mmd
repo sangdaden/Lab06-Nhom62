@@ -1,0 +1,14 @@
+flowchart LR
+    A[Người dùng chat với AI\nđặt lịch / đổi lịch / hỏi thông tin] --> B[AI Assistant + Booking Flow]
+    B --> C[Thu dữ liệu khách hàng\nchat logs, preferences, toolsUsed]
+    C --> D[Feedback & Outcome\nthumbs up/down, note, booking success]
+    D --> E[Dashboard & Phân tích insight\nintent lỗi, FAQ thiếu, slot acceptance]
+    E --> F[Cải thiện hệ thống\nprompt, UI, ranking slot, fallback]
+    F --> G[Trải nghiệm tốt hơn\nđặt lịch nhanh hơn, cá nhân hóa hơn]
+    G --> H[Tăng usage & phản hồi]
+    H --> A
+
+    style B fill:#dff7f2,stroke:#009688,stroke-width:2px
+    style D fill:#fff4d6,stroke:#f0ad4e,stroke-width:2px
+    style F fill:#e8f0ff,stroke:#4a90e2,stroke-width:2px
+    style G fill:#eafbea,stroke:#5cb85c,stroke-width:2px
