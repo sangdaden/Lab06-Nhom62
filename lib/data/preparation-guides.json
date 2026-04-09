@@ -1,0 +1,160 @@
+[
+  {
+    "id": "general",
+    "examType": "general",
+    "title": "Hướng dẫn chuẩn bị khám tổng quát",
+    "instructions": [
+      "Nhịn ăn ít nhất 8 tiếng trước khi khám (chỉ được uống nước lọc).",
+      "Không uống rượu bia trước 24 giờ.",
+      "Mặc quần áo thoải mái, dễ thay.",
+      "Mang theo tất cả đơn thuốc đang uống và kết quả khám gần nhất.",
+      "Đến trước giờ hẹn 15-20 phút để hoàn tất thủ tục đăng ký.",
+      "Nếu đang uống thuốc huyết áp, tim mạch: hỏi bác sĩ trước về việc có tiếp tục uống không."
+    ],
+    "duration": "Cần nhịn ăn 8 tiếng, nên đặt lịch buổi sáng sớm",
+    "notes": "Phụ nữ nên thông báo nếu đang mang thai hoặc nghi ngờ có thai trước khi làm xét nghiệm."
+  },
+  {
+    "id": "blood-test",
+    "examType": "blood-test",
+    "title": "Hướng dẫn chuẩn bị lấy máu xét nghiệm",
+    "instructions": [
+      "Nhịn ăn hoàn toàn ít nhất 8-12 tiếng trước khi lấy máu (chỉ được uống nước lọc).",
+      "Không uống rượu bia, nước ngọt, cà phê, sữa trước 12 tiếng.",
+      "Không hút thuốc lá ít nhất 2 tiếng trước khi lấy máu.",
+      "Uống đủ nước (200-300ml nước lọc) trước 30 phút để tĩnh mạch nổi rõ, dễ lấy máu.",
+      "Nghỉ ngơi 5-10 phút trước khi lấy máu, không vận động mạnh.",
+      "Thông báo cho y tá nếu đang uống thuốc kháng đông hoặc aspirin.",
+      "Sau lấy máu, ép bông vào vị trí tiêm 3-5 phút, không bẻ gập tay."
+    ],
+    "duration": "Cần nhịn ăn 8-12 tiếng, nên lấy máu buổi sáng 7:00-9:00",
+    "notes": "Một số xét nghiệm đặc biệt (cortisol, hormone sinh dục) có yêu cầu thời điểm lấy máu cụ thể, hỏi bác sĩ trước."
+  },
+  {
+    "id": "endoscopy",
+    "examType": "endoscopy",
+    "title": "Hướng dẫn chuẩn bị nội soi tiêu hóa",
+    "instructions": [
+      "Nhịn ăn hoàn toàn ít nhất 6-8 tiếng trước khi nội soi dạ dày.",
+      "Nội soi đại tràng: uống thuốc nhuận tràng theo đơn bác sĩ từ chiều hôm trước để làm sạch ruột.",
+      "Không uống sữa, nước có màu trước 4 tiếng (nước lọc và nước trong được uống đến 2 tiếng trước).",
+      "Thông báo bác sĩ nếu đang dùng thuốc loãng máu (warfarin, aspirin, clopidogrel).",
+      "Có thể dừng thuốc kháng đông 5-7 ngày trước nội soi theo chỉ định bác sĩ.",
+      "Nội soi gây mê: cần có người nhà đưa về sau thủ thuật, không được tự lái xe.",
+      "Mặc quần áo thoải mái, tháo kính áp tòng và răng giả (nếu có) trước khi vào phòng thủ thuật."
+    ],
+    "duration": "Nhịn ăn 6-8 tiếng, nội soi đại tràng cần chuẩn bị từ chiều hôm trước",
+    "notes": "Nếu chọn nội soi không đau (gây mê), cần nhịn ăn tuyệt đối từ nửa đêm hôm trước. Sau nội soi gây mê, không lái xe và không ký các văn bản quan trọng trong 24 giờ."
+  },
+  {
+    "id": "mri",
+    "examType": "mri",
+    "title": "Hướng dẫn chuẩn bị chụp MRI",
+    "instructions": [
+      "Tháo toàn bộ đồ kim loại: trang sức, kẹp tóc, đồng hồ, thắt lưng, mắt kính gọng kim loại.",
+      "Thông báo nếu có vật cấy ghép kim loại trong người: máy tạo nhịp tim, stent mạch máu, đinh vít xương, mảnh đạn.",
+      "Mặc quần áo bệnh viện do nhân viên cung cấp (không mặc đồ có khóa kéo kim loại).",
+      "Không cần nhịn ăn trừ khi MRI có tiêm thuốc cản quang Gadolinium.",
+      "Nếu tiêm cản quang: nhịn ăn 4 tiếng trước, kiểm tra chức năng thận trước đó.",
+      "Người bị hội chứng sợ không gian hẹp: thông báo trước để được hỗ trợ hoặc dùng thuốc an thần nhẹ.",
+      "Thời gian chụp thường 20-60 phút, cần nằm yên trong máy. Nếu không thoải mái, có thể ra dấu hiệu với kỹ thuật viên."
+    ],
+    "duration": "Không cần nhịn ăn (trừ khi có tiêm cản quang: nhịn 4 tiếng), thời gian chụp 20-60 phút",
+    "notes": "Phụ nữ mang thai: MRI 3 tháng đầu chỉ thực hiện khi thực sự cần thiết. Trẻ em dưới 6 tuổi thường cần gây mê."
+  },
+  {
+    "id": "ct-scan",
+    "examType": "ct-scan",
+    "title": "Hướng dẫn chuẩn bị chụp CT (Cắt lớp vi tính)",
+    "instructions": [
+      "CT không tiêm cản quang: không cần chuẩn bị đặc biệt, ăn uống bình thường.",
+      "CT có tiêm cản quang Iod: nhịn ăn 4 tiếng trước khi tiêm.",
+      "Thông báo tiền sử dị ứng với thuốc cản quang, hải sản, iod.",
+      "Kiểm tra chức năng thận (creatinine) trước nếu tiêm cản quang.",
+      "Ngừng thuốc Metformin (tiểu đường) 48 giờ trước và sau tiêm cản quang.",
+      "Tháo toàn bộ đồ kim loại, trang sức.",
+      "Uống đủ nước sau chụp để đào thải thuốc cản quang ra khỏi cơ thể."
+    ],
+    "duration": "CT thường: không cần nhịn ăn. CT cản quang: nhịn ăn 4 tiếng. Thời gian chụp 5-15 phút",
+    "notes": "CT sử dụng tia X - phụ nữ mang thai tránh chụp CT trừ trường hợp khẩn cấp. Liều phóng xạ của CT cao hơn X-quang thông thường."
+  },
+  {
+    "id": "ultrasound",
+    "examType": "ultrasound",
+    "title": "Hướng dẫn chuẩn bị siêu âm",
+    "instructions": [
+      "Siêu âm bụng tổng quát (gan, mật, tụy, thận): nhịn ăn ít nhất 6 tiếng, không uống nước ngọt hay sữa.",
+      "Siêu âm bụng: tránh ăn thực phẩm sinh hơi (bắp cải, đậu, nước có gas) ngày hôm trước.",
+      "Siêu âm vùng chậu qua ngả bụng: uống 500-1000ml nước 1 tiếng trước, không đi tiểu để bàng quang đầy.",
+      "Siêu âm tim, mạch máu, tuyến giáp, vú: không cần chuẩn bị đặc biệt.",
+      "Mặc quần áo thoải mái, dễ vén.",
+      "Mang theo kết quả siêu âm cũ để so sánh (nếu có)."
+    ],
+    "duration": "Siêu âm bụng: nhịn ăn 6 tiếng. Siêu âm vùng chậu: uống nước đầy bàng quang. Thời gian 15-30 phút",
+    "notes": "Siêu âm thai: tùy từng mốc thai kỳ có yêu cầu bàng quang đầy hoặc không. Hỏi bác sĩ sản khoa về chuẩn bị cụ thể."
+  },
+  {
+    "id": "cardiology",
+    "examType": "cardiology",
+    "title": "Hướng dẫn chuẩn bị thăm khám tim mạch",
+    "instructions": [
+      "Tiếp tục uống các thuốc tim mạch, huyết áp như bình thường (trừ khi bác sĩ chỉ định dừng).",
+      "Tránh caffeine (cà phê, trà đặc, nước tăng lực) trước 4 tiếng khi làm điện tim (ECG) hoặc Holter.",
+      "Nghiệm pháp gắng sức (stress test): nhịn ăn 3 tiếng, mặc quần áo thoải mái, đi giày thể thao.",
+      "Mang theo danh sách thuốc đang dùng kèm liều lượng.",
+      "Ghi chép các triệu chứng (đau ngực, khó thở, hồi hộp) xảy ra gần đây và hoàn cảnh xảy ra.",
+      "Siêu âm tim: không cần nhịn ăn, nằm nghiêng trái trong quá trình siêu âm."
+    ],
+    "duration": "Thường không cần nhịn ăn, trừ nghiệm pháp gắng sức (nhịn 3 tiếng)",
+    "notes": "Nếu có cơn đau ngực cấp tính hoặc khó thở đột ngột: đến cấp cứu ngay, không đặt lịch hẹn thông thường."
+  },
+  {
+    "id": "pediatric",
+    "examType": "pediatric",
+    "title": "Hướng dẫn chuẩn bị đưa trẻ đi khám nhi khoa",
+    "instructions": [
+      "Ghi chép trước: nhiệt độ sốt, thời điểm bắt đầu triệu chứng, các triệu chứng kèm theo.",
+      "Mang theo sổ tiêm chủng của trẻ.",
+      "Mang theo đơn thuốc và toa thuốc đang dùng (nếu có).",
+      "Cho trẻ ăn nhẹ trước khi đi để trẻ không quấy khóc (trừ khi bác sĩ chỉ định nhịn ăn).",
+      "Mang theo đồ chơi yêu thích hoặc núm vú giả để trấn an trẻ.",
+      "Phụ huynh hoặc người giám hộ phải đi cùng và ký giấy đồng ý khám thay trẻ.",
+      "Ghi nhớ cân nặng hiện tại của trẻ (nếu biết) để bác sĩ tính liều thuốc."
+    ],
+    "duration": "Không cần chuẩn bị đặc biệt, đến trước giờ hẹn 15-20 phút",
+    "notes": "Trẻ sơ sinh dưới 3 tháng có sốt trên 38°C cần đến cấp cứu ngay thay vì đặt lịch hẹn thông thường."
+  },
+  {
+    "id": "gynecology",
+    "examType": "gynecology",
+    "title": "Hướng dẫn chuẩn bị khám phụ khoa",
+    "instructions": [
+      "Không quan hệ tình dục trước 24-48 tiếng (ảnh hưởng kết quả xét nghiệm PAP, HPV).",
+      "Không thụt rửa âm đạo, không dùng kem/viên đặt âm đạo trước 48 tiếng.",
+      "Không trong kỳ kinh nguyệt (lý tưởng nhất khám vào ngày 10-20 chu kỳ).",
+      "Mặc quần áo dễ thay, ưu tiên quần thay vì váy.",
+      "Ghi chép ngày đầu kỳ kinh cuối, chu kỳ kinh, các triệu chứng bất thường.",
+      "Thông báo nếu đang mang thai hoặc có khả năng mang thai.",
+      "Siêu âm vùng chậu: uống nước đầy bàng quang (500ml nước, 1 tiếng trước)."
+    ],
+    "duration": "Không cần nhịn ăn. Nên khám vào ngày 10-20 của chu kỳ kinh",
+    "notes": "Phụ nữ đã sinh con hoặc đã có quan hệ tình dục: khám nội phụ khoa thông thường. Phụ nữ chưa quan hệ tình dục: thông báo để bác sĩ lựa chọn phương pháp phù hợp."
+  },
+  {
+    "id": "surgery-pre",
+    "examType": "surgery-pre",
+    "title": "Hướng dẫn chuẩn bị trước phẫu thuật",
+    "instructions": [
+      "Nhịn ăn hoàn toàn từ nửa đêm hôm trước ngày phẫu thuật (kể cả kẹo cao su).",
+      "Chỉ được uống nước lọc đến 2 tiếng trước giờ mổ.",
+      "Tắm sạch tối hôm trước, không dùng kem dưỡng da, nước hoa, sơn móng tay.",
+      "Dừng thuốc kháng đông (aspirin, warfarin, clopidogrel) theo lịch bác sĩ phẫu thuật chỉ định (thường 5-7 ngày trước).",
+      "Dừng thuốc bổ sung thảo dược, vitamin E liều cao, omega-3 trước 1 tuần.",
+      "Không hút thuốc lá ít nhất 2 tuần trước và sau phẫu thuật.",
+      "Cần có người thân đưa đến và ở lại trong ngày phẫu thuật.",
+      "Mang theo kết quả xét nghiệm tiền phẫu (máu, ECG, X-quang ngực) nếu đã thực hiện."
+    ],
+    "duration": "Nhịn ăn từ nửa đêm, chỉ uống nước đến 2 tiếng trước mổ",
+    "notes": "Người đái tháo đường: hỏi bác sĩ về việc điều chỉnh insulin và thuốc hạ đường huyết trước phẫu thuật. Không tự ý dừng hoặc tiếp tục uống thuốc mà không có chỉ dẫn của bác sĩ phẫu thuật."
+  }
+]

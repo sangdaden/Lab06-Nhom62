@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Tôi có thể đặt lịch khám tại Vinmec bằng những cách nào?",
+    "answer": "Bạn có thể đặt lịch khám tại Vinmec qua 3 cách: (1) Gọi tổng đài 1800 599 920 (miễn phí, hoạt động 24/7), (2) Đặt lịch trực tuyến tại website vinmec.com hoặc ứng dụng MyVinmec trên điện thoại, (3) Đến trực tiếp quầy đăng ký tại bệnh viện. Khuyến nghị đặt lịch trước ít nhất 1-2 ngày để chủ động chọn bác sĩ và giờ khám phù hợp.",
+    "keywords": ["đặt lịch", "đăng ký khám", "tổng đài", "app", "ứng dụng", "website", "trực tuyến"],
+    "category": "booking"
+  },
+  {
+    "question": "Tôi muốn đổi lịch khám đã đặt, phải làm thế nào?",
+    "answer": "Để đổi lịch khám, bạn cần liên hệ trước ít nhất 2 tiếng đồng hồ so với giờ hẹn. Bạn có thể đổi lịch qua ứng dụng MyVinmec (vào mục 'Lịch khám của tôi' → chọn lịch cần đổi → 'Đổi lịch'), hoặc gọi tổng đài 1800 599 920. Lưu ý: mỗi lần đặt chỉ được đổi lịch tối đa 2 lần.",
+    "keywords": ["đổi lịch", "reschedule", "thay đổi lịch", "hủy đặt", "dời lịch"],
+    "category": "booking"
+  },
+  {
+    "question": "Nếu muốn hủy lịch khám, tôi cần thông báo trước bao lâu?",
+    "answer": "Bạn cần hủy lịch trước ít nhất 2 tiếng đồng hồ so với giờ hẹn để tránh bị tính phí hủy. Việc hủy lịch trễ hoặc không đến khám mà không báo trước có thể ảnh hưởng đến ưu tiên đặt lịch trong tương lai. Hủy lịch qua app MyVinmec hoặc gọi tổng đài 1800 599 920.",
+    "keywords": ["hủy lịch", "cancel", "không đến khám", "hoàn tiền", "phí hủy"],
+    "category": "booking"
+  },
+  {
+    "question": "Tôi cần mang theo giấy tờ gì khi đến khám lần đầu?",
+    "answer": "Khi đến khám lần đầu tại Vinmec, bạn cần mang: (1) CCCD/Hộ chiếu (bản gốc), (2) Thẻ bảo hiểm y tế (nếu có, để được hưởng quyền lợi BHYT), (3) Các kết quả xét nghiệm, chẩn đoán hình ảnh hoặc đơn thuốc cũ liên quan đến bệnh (nếu có). Với trẻ em dưới 15 tuổi, cần mang thêm giấy khai sinh.",
+    "keywords": ["giấy tờ", "CCCD", "hộ chiếu", "thẻ BHYT", "lần đầu", "đăng ký"],
+    "category": "booking"
+  },
+  {
+    "question": "Tôi có thể đặt lịch cho người thân không?",
+    "answer": "Có, bạn có thể đặt lịch khám cho người thân qua ứng dụng MyVinmec bằng cách thêm hồ sơ sức khỏe cho họ trong mục 'Quản lý hồ sơ'. Khi đến khám, người thân chỉ cần mang CCCD và các giấy tờ y tế liên quan. Với trẻ em, bố/mẹ hoặc người giám hộ cần đi cùng và mang đầy đủ giấy tờ.",
+    "keywords": ["đặt lịch cho người thân", "gia đình", "hồ sơ gia đình", "trẻ em", "người giám hộ"],
+    "category": "booking"
+  },
+  {
+    "question": "Thời gian chờ khám tại Vinmec thường là bao lâu?",
+    "answer": "Tại Vinmec, thời gian chờ trung bình cho bệnh nhân đặt lịch trước là 15-30 phút. Nếu khám không đặt lịch, thời gian chờ có thể lên đến 60-90 phút tùy buổi và khoa. Khuyến nghị đặt lịch trước và đến trước giờ hẹn 15 phút để hoàn tất thủ tục đăng ký.",
+    "keywords": ["thời gian chờ", "chờ đợi", "đặt lịch trước", "xếp hàng", "đăng ký tại quầy"],
+    "category": "booking"
+  },
+  {
+    "question": "Tôi có thể chọn bác sĩ cụ thể khi đặt lịch không?",
+    "answer": "Có, Vinmec cho phép bạn chọn bác sĩ cụ thể khi đặt lịch qua website hoặc app MyVinmec. Bạn có thể xem thông tin, chuyên môn và lịch làm việc của từng bác sĩ trước khi đặt. Nếu bác sĩ bạn chọn đã đầy lịch trong ngày, bạn có thể chọn ngày khác hoặc bác sĩ cùng chuyên khoa.",
+    "keywords": ["chọn bác sĩ", "đặt lịch bác sĩ", "lịch làm việc", "bác sĩ chuyên khoa"],
+    "category": "booking"
+  },
+  {
+    "question": "Vinmec có dịch vụ khám tại nhà không?",
+    "answer": "Vinmec cung cấp dịch vụ chăm sóc sức khỏe tại nhà bao gồm: lấy mẫu xét nghiệm tại nhà, tiêm chủng tại nhà, và chăm sóc điều dưỡng tại nhà sau xuất viện. Để đăng ký, vui lòng gọi tổng đài 1800 599 920 hoặc đặt qua app MyVinmec. Dịch vụ hiện chỉ khả dụng trong bán kính 15km từ bệnh viện Vinmec.",
+    "keywords": ["khám tại nhà", "dịch vụ tại nhà", "lấy máu tại nhà", "tiêm tại nhà", "điều dưỡng"],
+    "category": "booking"
+  },
+  {
+    "question": "Chi phí khám tại Vinmec là bao nhiêu?",
+    "answer": "Chi phí khám tại Vinmec tùy thuộc vào chuyên khoa và loại dịch vụ. Phí khám lần đầu dao động từ 300.000 - 500.000 đồng cho khám nội khoa tổng quát, đến 600.000 - 1.500.000 đồng cho các chuyên khoa sâu. Phí này chưa bao gồm xét nghiệm, chẩn đoán hình ảnh hoặc thuốc. Bạn có thể xem bảng giá chi tiết tại vinmec.com hoặc hỏi trực tiếp khi đặt lịch.",
+    "keywords": ["chi phí", "giá khám", "phí khám", "giá dịch vụ", "bảng giá"],
+    "category": "payment"
+  },
+  {
+    "question": "Vinmec chấp nhận những hình thức thanh toán nào?",
+    "answer": "Vinmec chấp nhận đa dạng hình thức thanh toán: tiền mặt (VNĐ), thẻ tín dụng/ghi nợ (Visa, Mastercard, JCB, American Express), chuyển khoản ngân hàng, ví điện tử (MoMo, ZaloPay, VNPay), và thanh toán qua ứng dụng MyVinmec. Không chấp nhận ngoại tệ trực tiếp tại quầy.",
+    "keywords": ["thanh toán", "tiền mặt", "thẻ tín dụng", "visa", "mastercard", "momo", "vnpay", "chuyển khoản"],
+    "category": "payment"
+  },
+  {
+    "question": "Tôi có thể thanh toán trả góp không?",
+    "answer": "Vinmec hỗ trợ thanh toán trả góp 0% lãi suất qua các thẻ tín dụng liên kết như VPBank, Techcombank, BIDV với hóa đơn từ 3.000.000 đồng trở lên, kỳ hạn 3-12 tháng. Bạn cần có thẻ tín dụng của ngân hàng đối tác và đăng ký tại quầy thanh toán ngay khi kết thúc dịch vụ.",
+    "keywords": ["trả góp", "trả chậm", "lãi suất 0%", "thẻ tín dụng", "kỳ hạn"],
+    "category": "payment"
+  },
+  {
+    "question": "Vinmec có hoàn tiền khi hủy lịch không?",
+    "answer": "Nếu bạn đã thanh toán trước và hủy lịch trước 24 giờ so với giờ hẹn, Vinmec sẽ hoàn tiền 100% qua phương thức thanh toán gốc trong 3-5 ngày làm việc. Hủy trong 2-24 giờ trước giờ hẹn: hoàn 70%. Hủy dưới 2 giờ hoặc không đến: không hoàn tiền. Với dịch vụ khám gói, điều kiện hoàn tiền có thể khác biệt.",
+    "keywords": ["hoàn tiền", "refund", "hủy lịch", "hoàn phí", "điều kiện hoàn tiền"],
+    "category": "payment"
+  },
+  {
+    "question": "Vinmec có chương trình ưu đãi hay gói khám sức khỏe không?",
+    "answer": "Vinmec thường xuyên có các chương trình ưu đãi theo mùa và gói khám sức khỏe tổng quát dành cho cá nhân và doanh nghiệp. Các gói phổ biến: Gói khám sức khỏe cơ bản (từ 1.500.000đ), Gói Platinum dành cho khách VIP, Gói khám tầm soát ung thư. Thành viên MyVinmec Plus được hưởng ưu đãi 10-20% phí khám.",
+    "keywords": ["ưu đãi", "gói khám", "khám tổng quát", "khuyến mãi", "thành viên", "platinum"],
+    "category": "payment"
+  },
+  {
+    "question": "Hóa đơn VAT tại Vinmec có được xuất không?",
+    "answer": "Vinmec xuất hóa đơn VAT theo yêu cầu cho tất cả dịch vụ khám chữa bệnh. Để nhận hóa đơn VAT, bạn cần cung cấp thông tin công ty (tên, mã số thuế, địa chỉ) cho nhân viên thu ngân trước khi thanh toán. Hóa đơn điện tử sẽ được gửi về email trong vòng 24 giờ sau khi xuất.",
+    "keywords": ["hóa đơn", "VAT", "thuế", "hóa đơn điện tử", "công ty", "mã số thuế"],
+    "category": "payment"
+  },
+  {
+    "question": "Vinmec có chi phí gửi xe không và phí là bao nhiêu?",
+    "answer": "Vinmec có bãi đỗ xe có thu phí. Phí gửi xe máy khoảng 5.000 - 10.000 đồng/lượt, xe ô tô từ 20.000 - 50.000 đồng/lượt tùy cơ sở. Bệnh nhân nội trú và người khám gói cao cấp được miễn phí hoặc giảm phí gửi xe. Một số cơ sở có bãi đỗ xe hầm với tính phí theo giờ.",
+    "keywords": ["gửi xe", "bãi đỗ xe", "phí đỗ xe", "xe máy", "ô tô"],
+    "category": "payment"
+  },
+  {
+    "question": "Thẻ BHYT có được chấp nhận tại Vinmec không?",
+    "answer": "Vinmec là bệnh viện tư nhân có ký hợp đồng với BHXH Việt Nam, chấp nhận thẻ BHYT cho một số dịch vụ cơ bản. Tuy nhiên, mức thanh toán BHYT tại Vinmec có giới hạn theo quy định nhà nước. Bệnh nhân thường phải đồng chi trả phần chênh lệch. Để biết chi tiết dịch vụ nào được BHYT chi trả, vui lòng liên hệ tổng đài hoặc hỏi tại quầy đăng ký.",
+    "keywords": ["BHYT", "bảo hiểm y tế", "thẻ bảo hiểm", "thanh toán BHYT", "chi trả BHYT"],
+    "category": "insurance"
+  },
+  {
+    "question": "Tôi có bảo hiểm sức khỏe tư nhân, có dùng được tại Vinmec không?",
+    "answer": "Vinmec có hợp tác với hầu hết các công ty bảo hiểm sức khỏe tư nhân lớn tại Việt Nam như Bảo Việt, PVI, Prudential, AIA, Manulife, BIDV Metlife. Bạn có thể bảo lãnh viện phí trực tiếp tại quầy nếu bảo hiểm của bạn có hợp đồng bảo lãnh với Vinmec. Nếu không có bảo lãnh trực tiếp, bạn thanh toán trước và nộp hồ sơ hoàn tiền với bảo hiểm sau.",
+    "keywords": ["bảo hiểm tư nhân", "bảo hiểm sức khỏe", "bảo lãnh viện phí", "Bảo Việt", "Prudential", "AIA"],
+    "category": "insurance"
+  },
+  {
+    "question": "Thủ tục bảo lãnh viện phí tại Vinmec như thế nào?",
+    "answer": "Để được bảo lãnh viện phí, khi nhập viện hoặc đăng ký dịch vụ, bạn mang thẻ bảo hiểm sức khỏe đến quầy tiếp nhận. Nhân viên Vinmec sẽ liên hệ với công ty bảo hiểm để xác nhận phạm vi bảo lãnh. Sau khi xác nhận, bạn chỉ cần thanh toán phần không được bảo hiểm chi trả. Quá trình xác nhận thường mất 15-30 phút.",
+    "keywords": ["bảo lãnh", "thủ tục bảo hiểm", "xác nhận bảo hiểm", "phạm vi bảo hiểm"],
+    "category": "insurance"
+  },
+  {
+    "question": "Vinmec có hỗ trợ thanh toán bảo hiểm quốc tế không?",
+    "answer": "Vinmec chấp nhận một số bảo hiểm sức khỏe quốc tế như Cigna, Allianz Care, Aetna International, BUPA. Quy trình tương tự bảo hiểm tư nhân trong nước. Với bệnh nhân nước ngoài, Vinmec có đội ngũ nhân viên nói tiếng Anh hỗ trợ xử lý hồ sơ bảo hiểm quốc tế. Liên hệ trước để xác nhận bảo hiểm của bạn có trong danh sách đối tác không.",
+    "keywords": ["bảo hiểm quốc tế", "Cigna", "Allianz", "Aetna", "BUPA", "người nước ngoài"],
+    "category": "insurance"
+  },
+  {
+    "question": "Nếu bảo hiểm không chi trả đủ, tôi phải làm gì?",
+    "answer": "Nếu chi phí điều trị vượt quá mức bảo hiểm chi trả, bạn cần thanh toán phần chênh lệch trực tiếp tại Vinmec. Vinmec sẽ cấp hóa đơn chi tiết để bạn nộp với công ty bảo hiểm nếu muốn yêu cầu bồi thường bổ sung. Trong trường hợp khó khăn tài chính, bạn có thể thảo luận với bộ phận tài chính Vinmec về phương án thanh toán linh hoạt.",
+    "keywords": ["vượt mức bảo hiểm", "đồng chi trả", "phần chênh lệch", "bồi thường bảo hiểm"],
+    "category": "insurance"
+  },
+  {
+    "question": "Hồ sơ để yêu cầu bồi thường bảo hiểm sau khi khám xong gồm những gì?",
+    "answer": "Để yêu cầu bồi thường bảo hiểm sau khi khám tại Vinmec, bạn cần: (1) Hóa đơn tài chính gốc có dấu đỏ của Vinmec, (2) Tóm tắt bệnh án hoặc giấy chứng nhận điều trị (yêu cầu tại phòng hành chính y vụ), (3) Kết quả xét nghiệm, chẩn đoán hình ảnh liên quan, (4) Đơn thuốc và hóa đơn thuốc (nếu có). Vinmec hỗ trợ cấp tất cả tài liệu này theo yêu cầu.",
+    "keywords": ["hồ sơ bảo hiểm", "bồi thường", "hóa đơn gốc", "bệnh án", "tóm tắt y tế"],
+    "category": "insurance"
+  },
+  {
+    "question": "Trẻ em có cần thẻ bảo hiểm riêng khi khám tại Vinmec không?",
+    "answer": "Có, trẻ em cần có thẻ BHYT riêng mang tên trẻ để được hưởng quyền lợi bảo hiểm. Trẻ dưới 6 tuổi được cấp thẻ BHYT miễn phí từ nhà nước, cha mẹ cần đăng ký tại UBND phường/xã. Trẻ từ 6-15 tuổi có thể tham gia BHYT theo diện học sinh hoặc gia đình. Đối với bảo hiểm sức khỏe tư nhân, trẻ thường được thêm vào hợp đồng bảo hiểm của bố/mẹ hoặc mua gói riêng.",
+    "keywords": ["bảo hiểm trẻ em", "thẻ BHYT trẻ em", "trẻ dưới 6 tuổi", "bảo hiểm học sinh", "BHYT gia đình"],
+    "category": "insurance"
+  },
+  {
+    "question": "Vinmec mở cửa từ mấy giờ?",
+    "answer": "Vinmec hoạt động 24/7 cho cấp cứu và nội trú. Phòng khám ngoại trú hoạt động từ thứ Hai đến Chủ nhật: Buổi sáng từ 7:00 - 12:00, Buổi chiều từ 13:00 - 17:00. Một số chuyên khoa có thêm lịch chiều tối đến 20:00. Vào các ngày lễ, lịch khám có thể điều chỉnh, khuyến nghị gọi xác nhận trước.",
+    "keywords": ["giờ mở cửa", "giờ khám", "thứ mấy", "nghỉ lễ", "ca khám", "buổi chiều"],
+    "category": "general"
+  },
+  {
+    "question": "Vinmec có dịch vụ nội trú không và điều kiện nhập viện là gì?",
+    "answer": "Vinmec cung cấp dịch vụ nội trú với phòng đơn, phòng đôi và phòng VIP được trang bị tiện nghi đầy đủ. Nhập viện nội trú theo chỉ định của bác sĩ sau khi thăm khám. Bệnh nhân cần làm thủ tục nhập viện tại quầy tiếp nhận nội trú, mang CCCD, thẻ BHYT (nếu có) và đặt cọc viện phí theo quy định.",
+    "keywords": ["nội trú", "nhập viện", "phòng bệnh", "phòng VIP", "đặt cọc", "viện phí"],
+    "category": "general"
+  },
+  {
+    "question": "Người thân có thể vào thăm bệnh nhân nội trú không?",
+    "answer": "Thân nhân được phép thăm bệnh nhân nội trú trong khung giờ thăm viếng: 10:00 - 11:30 và 15:00 - 17:30 hàng ngày. Mỗi bệnh nhân được phép có tối đa 2 người thăm cùng lúc. Đối với bệnh nhân nhi, 1 phụ huynh được phép ở lại chăm sóc 24/7. Khu ICU và phòng cách ly có quy định thăm viếng đặc biệt.",
+    "keywords": ["thăm bệnh nhân", "thân nhân", "giờ thăm", "ICU", "người nhà", "chăm sóc"],
+    "category": "general"
+  },
+  {
+    "question": "Vinmec có dịch vụ phiên dịch cho bệnh nhân nước ngoài không?",
+    "answer": "Vinmec có đội ngũ nhân viên và bác sĩ thành thạo tiếng Anh tại tất cả cơ sở lớn. Dịch vụ phiên dịch tiếng Anh có sẵn miễn phí khi đặt trước. Với các ngôn ngữ khác (Nhật, Hàn, Trung...), vui lòng liên hệ trước để sắp xếp phiên dịch viên. Vinmec Times City và Central Park có nhiều kinh nghiệm nhất trong phục vụ bệnh nhân quốc tế.",
+    "keywords": ["tiếng Anh", "người nước ngoài", "phiên dịch", "ngoại ngữ", "tiếng Nhật", "tiếng Hàn"],
+    "category": "general"
+  },
+  {
+    "question": "Vinmec có dịch vụ cấp cứu không?",
+    "answer": "Vinmec có khoa Cấp cứu hoạt động 24/7 tại tất cả các cơ sở. Cấp cứu Vinmec có đội ngũ bác sĩ chuyên khoa, trang thiết bị hiện đại sẵn sàng xử lý mọi tình huống khẩn cấp. Vinmec cũng có xe cấp cứu lưu động trong một số khu vực. Đường dây cấp cứu: gọi trực tiếp số điện thoại của cơ sở Vinmec gần nhất hoặc 115.",
+    "keywords": ["cấp cứu", "khẩn cấp", "xe cấp cứu", "24/7", "tai nạn", "đường dây cấp cứu"],
+    "category": "general"
+  },
+  {
+    "question": "Tôi có thể lấy kết quả xét nghiệm online không?",
+    "answer": "Có, kết quả xét nghiệm và chẩn đoán hình ảnh tại Vinmec được cập nhật lên ứng dụng MyVinmec ngay sau khi có kết quả (thường trong 2-4 giờ với xét nghiệm thường quy, 24-48 giờ với xét nghiệm phức tạp). Bạn đăng nhập app MyVinmec, vào mục 'Kết quả xét nghiệm' để xem và tải về. Kết quả cũng được gửi qua email nếu đã đăng ký.",
+    "keywords": ["kết quả xét nghiệm", "online", "app", "MyVinmec", "tải kết quả", "xem online"],
+    "category": "general"
+  },
+  {
+    "question": "Vinmec có chương trình khám sức khỏe doanh nghiệp không?",
+    "answer": "Vinmec cung cấp dịch vụ khám sức khỏe định kỳ cho doanh nghiệp với nhiều gói từ cơ bản đến toàn diện, phù hợp mọi quy mô công ty. Vinmec có thể khám tại bệnh viện hoặc cử đội y tế đến tận doanh nghiệp. Doanh nghiệp được hưởng giá ưu đãi theo hợp đồng, hóa đơn VAT và báo cáo sức khỏe tập thể. Liên hệ phòng kinh doanh Vinmec để được tư vấn.",
+    "keywords": ["doanh nghiệp", "công ty", "khám định kỳ tập thể", "hợp đồng doanh nghiệp", "khám lưu động"],
+    "category": "general"
+  },
+  {
+    "question": "Vinmec có dịch vụ tư vấn sức khỏe từ xa không?",
+    "answer": "Vinmec cung cấp dịch vụ Telehealth - tư vấn sức khỏe trực tuyến qua video call với bác sĩ. Dịch vụ khả dụng từ 7:00 - 22:00 hàng ngày, đặt lịch qua app MyVinmec. Chi phí tư vấn trực tuyến thấp hơn khám trực tiếp khoảng 30-50%. Phù hợp cho tái khám, tư vấn kết quả xét nghiệm hoặc các vấn đề sức khỏe không khẩn cấp.",
+    "keywords": ["tư vấn online", "telehealth", "khám từ xa", "video call", "bác sĩ online", "tái khám online"],
+    "category": "general"
+  }
+]
