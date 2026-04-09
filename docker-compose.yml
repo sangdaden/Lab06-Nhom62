@@ -1,0 +1,49 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: vinmec_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: vinmec_ai
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  app:
+    build: .
+    container_name: vinmec_app
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/vinmec_ai?schema=public
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      NEXT_PUBLIC_APP_URL: ${NEXT_PUBLIC_APP_URL:-https://nhom62-lab6-vinmec.hvan.it.com}
+      NEXT_PUBLIC_APP_NAME: ${NEXT_PUBLIC_APP_NAME:-Trợ lý ảo VinmecCare}
+    depends_on:
+      - db
+    profiles:
+      - full
+
+  # ──────────────────────────────────────────────
+  # Cloudflare Tunnel
+  # Public URL: https://nhom62-lab6-vinmec.hvan.it.com
+  # ──────────────────────────────────────────────
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: vinmec_cloudflared
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run --token ${CLOUDFLARE_TUNNEL_TOKEN}
+    depends_on:
+      - app
+    profiles:
+      - full
+    network_mode: host  # truy cập localhost:3000 trực tiếp
+
+volumes:
+  postgres_data:

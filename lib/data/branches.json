@@ -1,0 +1,72 @@
+[
+  {
+    "id": "times-city",
+    "name": "Vinmec Times City",
+    "address": "458 Minh Khai, Hai Bà Trưng, Hà Nội",
+    "city": "Hà Nội",
+    "phone": "024 3974 3556",
+    "lat": 20.9944,
+    "lng": 105.8641,
+    "services": ["noi-tong-quat", "tieu-hoa", "tim-mach", "ho-hap", "co-xuong-khop", "than-kinh", "da-lieu", "mat", "tai-mui-hong", "nhi-khoa"]
+  },
+  {
+    "id": "central-park",
+    "name": "Vinmec Central Park",
+    "address": "208 Nguyễn Hữu Cảnh, Bình Thạnh, TP. Hồ Chí Minh",
+    "city": "TP. Hồ Chí Minh",
+    "phone": "028 3622 1166",
+    "lat": 10.7958,
+    "lng": 106.7218,
+    "services": ["noi-tong-quat", "tieu-hoa", "tim-mach", "ho-hap", "co-xuong-khop", "than-kinh", "da-lieu", "mat", "tai-mui-hong", "nhi-khoa"]
+  },
+  {
+    "id": "da-nang",
+    "name": "Vinmec Đà Nẵng",
+    "address": "73 Nguyễn Hữu Thọ, Khuê Trung, Cẩm Lệ, Đà Nẵng",
+    "city": "Đà Nẵng",
+    "phone": "0236 3711 111",
+    "lat": 16.0292,
+    "lng": 108.2108,
+    "services": ["noi-tong-quat", "tieu-hoa", "tim-mach", "ho-hap", "co-xuong-khop", "da-lieu", "mat", "tai-mui-hong", "nhi-khoa"]
+  },
+  {
+    "id": "nha-trang",
+    "name": "Vinmec Nha Trang",
+    "address": "42A Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa",
+    "city": "Nha Trang",
+    "phone": "0258 3900 168",
+    "lat": 12.2451,
+    "lng": 109.1975,
+    "services": ["noi-tong-quat", "tieu-hoa", "tim-mach", "ho-hap", "da-lieu", "mat", "tai-mui-hong", "nhi-khoa"]
+  },
+  {
+    "id": "phu-quoc",
+    "name": "Vinmec Phú Quốc",
+    "address": "Bãi Dài, Gành Dầu, Phú Quốc, Kiên Giang",
+    "city": "Phú Quốc",
+    "phone": "0297 3985 588",
+    "lat": 10.3596,
+    "lng": 103.8640,
+    "services": ["noi-tong-quat", "tieu-hoa", "tim-mach", "da-lieu", "mat", "tai-mui-hong", "nhi-khoa"]
+  },
+  {
+    "id": "ha-long",
+    "name": "Vinmec Hạ Long",
+    "address": "Lô TM1, KĐT Cái Đam, Hạ Long, Quảng Ninh",
+    "city": "Hạ Long",
+    "phone": "0203 3828 188",
+    "lat": 20.9630,
+    "lng": 107.0432,
+    "services": ["noi-tong-quat", "tieu-hoa", "tim-mach", "ho-hap", "da-lieu", "mat", "tai-mui-hong", "nhi-khoa"]
+  },
+  {
+    "id": "hai-phong",
+    "name": "Vinmec Hải Phòng",
+    "address": "36 Nguyễn Đức Cảnh, Dư Hàng Kênh, Lê Chân, Hải Phòng",
+    "city": "Hải Phòng",
+    "phone": "0225 3730 888",
+    "lat": 20.8446,
+    "lng": 106.6881,
+    "services": ["noi-tong-quat", "tieu-hoa", "tim-mach", "ho-hap", "co-xuong-khop", "da-lieu", "mat", "tai-mui-hong", "nhi-khoa"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "user-an",
+    "name": "Nguyễn Văn An",
+    "age": 32,
+    "gender": "male",
+    "avatarUrl": null,
+    "medicalNotes": "Khỏe mạnh, chưa có lịch sử khám tại Vinmec"
+  },
+  {
+    "id": "user-binh",
+    "name": "Trần Thị Bình",
+    "age": 58,
+    "gender": "female",
+    "avatarUrl": null,
+    "medicalNotes": "Tiểu đường type 2 (chẩn đoán 2020), tiền sử tăng huyết áp, khám định kỳ tim mạch mỗi 6 tháng"
+  },
+  {
+    "id": "user-cuong",
+    "name": "Lê Minh Cường",
+    "age": 8,
+    "gender": "male",
+    "avatarUrl": null,
+    "medicalNotes": "Bệnh nhi, có mẹ là người đại diện. Tiền sử viêm phế quản tái phát, đã điều trị tại Khoa Nhi Vinmec"
+  }
+]

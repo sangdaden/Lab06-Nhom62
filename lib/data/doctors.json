@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bs-nguyen-van-minh",
+    "name": "BS. Nguyễn Văn Minh",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Nội tổng quát, quản lý bệnh mãn tính",
+    "experience": 22,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Nguyễn Văn Minh có 22 năm kinh nghiệm trong lĩnh vực nội khoa tổng quát và quản lý bệnh mãn tính. Ông từng tu nghiệp tại Pháp và là chuyên gia đầu ngành về chẩn đoán bệnh lý nội khoa phức tạp.",
+    "departmentId": "noi-tong-quat"
+  },
+  {
+    "id": "bs-tran-thi-lan",
+    "name": "BS. Trần Thị Lan",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Nội tiết, tiểu đường, tuyến giáp",
+    "experience": 15,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Trần Thị Lan chuyên sâu về nội tiết và bệnh tiểu đường với 15 năm kinh nghiệm. Bà là thành viên Hội Nội tiết - Đái tháo đường Việt Nam và đã có nhiều công trình nghiên cứu về quản lý tiểu đường type 2.",
+    "departmentId": "noi-tong-quat"
+  },
+  {
+    "id": "bs-le-duc-hung",
+    "name": "BS. Lê Đức Hùng",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Sàng lọc sức khỏe định kỳ, y học dự phòng",
+    "experience": 12,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Lê Đức Hùng chuyên về khám sức khỏe định kỳ và y học dự phòng với hơn 12 năm kinh nghiệm. Ông có kinh nghiệm tư vấn chế độ dinh dưỡng và phòng ngừa bệnh cho các nhóm đối tượng đặc biệt.",
+    "departmentId": "noi-tong-quat"
+  },
+  {
+    "id": "bs-pham-quoc-tuan",
+    "name": "BS. Phạm Quốc Tuấn",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Nội soi tiêu hóa, bệnh lý đại tràng",
+    "experience": 25,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Phạm Quốc Tuấn là chuyên gia hàng đầu về nội soi tiêu hóa với 25 năm kinh nghiệm. Ông đã thực hiện hơn 10.000 ca nội soi và là người tiên phong áp dụng kỹ thuật nội soi can thiệp tại Việt Nam.",
+    "departmentId": "tieu-hoa"
+  },
+  {
+    "id": "bs-nguyen-thi-hoa",
+    "name": "BS. Nguyễn Thị Hoa",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Bệnh lý gan, xơ gan, viêm gan virus",
+    "experience": 18,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Nguyễn Thị Hoa có 18 năm kinh nghiệm trong điều trị bệnh lý gan và viêm gan virus. Bà được đào tạo chuyên sâu về điều trị viêm gan B, C bằng phác đồ kháng virus thế hệ mới.",
+    "departmentId": "tieu-hoa"
+  },
+  {
+    "id": "bs-vo-thanh-liem",
+    "name": "BS. Võ Thanh Liêm",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Bệnh lý dạ dày, trào ngược thực quản",
+    "experience": 13,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Võ Thanh Liêm chuyên điều trị bệnh lý dạ dày và trào ngược thực quản với 13 năm kinh nghiệm. Ông có nhiều kinh nghiệm tư vấn chế độ ăn uống và lối sống cho bệnh nhân mắc bệnh tiêu hóa mãn tính.",
+    "departmentId": "tieu-hoa"
+  },
+  {
+    "id": "bs-hoang-van-cuong",
+    "name": "BS. Hoàng Văn Cường",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Can thiệp tim mạch, đặt stent mạch vành",
+    "experience": 28,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Hoàng Văn Cường là chuyên gia tim mạch can thiệp với 28 năm kinh nghiệm. Ông đã thực hiện hơn 5.000 ca đặt stent mạch vành và được đào tạo tại Đức, Mỹ về kỹ thuật can thiệp tim mạch hiện đại.",
+    "departmentId": "tim-mach"
+  },
+  {
+    "id": "bs-bui-thi-mai",
+    "name": "BS. Bùi Thị Mai",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Suy tim, tăng huyết áp, rối loạn nhịp tim",
+    "experience": 16,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Bùi Thị Mai chuyên điều trị suy tim và rối loạn nhịp tim với 16 năm kinh nghiệm. Bà có kinh nghiệm theo dõi và điều chỉnh thuốc cho bệnh nhân suy tim mãn tính và tăng huyết áp khó kiểm soát.",
+    "departmentId": "tim-mach"
+  },
+  {
+    "id": "bs-do-manh-toan",
+    "name": "BS. Đỗ Mạnh Toàn",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Siêu âm tim, bệnh lý van tim",
+    "experience": 14,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Đỗ Mạnh Toàn chuyên về siêu âm tim và bệnh lý van tim với 14 năm kinh nghiệm. Ông được đánh giá cao về kỹ năng đọc và phân tích siêu âm tim trong chẩn đoán các bệnh lý tim bẩm sinh và mắc phải.",
+    "departmentId": "tim-mach"
+  },
+  {
+    "id": "bs-nguyen-duy-phuong",
+    "name": "BS. Nguyễn Duy Phương",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "COPD, hen suyễn, bệnh phổi mãn tính",
+    "experience": 24,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Nguyễn Duy Phương là chuyên gia đầu ngành về bệnh phổi mãn tính với 24 năm kinh nghiệm. Ông là Phó chủ tịch Hội Hô hấp Việt Nam và đã công bố nhiều nghiên cứu quốc tế về điều trị COPD.",
+    "departmentId": "ho-hap"
+  },
+  {
+    "id": "bs-tran-ngoc-linh",
+    "name": "BS. Trần Ngọc Linh",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Viêm phổi, nhiễm trùng đường hô hấp",
+    "experience": 17,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Trần Ngọc Linh có 17 năm kinh nghiệm điều trị viêm phổi và các bệnh nhiễm trùng đường hô hấp. Bà có kinh nghiệm xử lý các ca viêm phổi nặng, viêm phổi do virus và vi khuẩn kháng thuốc.",
+    "departmentId": "ho-hap"
+  },
+  {
+    "id": "bs-phan-van-son",
+    "name": "BS. Phan Văn Sơn",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Dị ứng hô hấp, viêm mũi dị ứng, polyp phổi",
+    "experience": 11,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Phan Văn Sơn chuyên về dị ứng hô hấp và hen phế quản với 11 năm kinh nghiệm. Ông có kinh nghiệm tư vấn và điều trị dài hạn cho bệnh nhân dị ứng phấn hoa, bụi nhà và các tác nhân môi trường.",
+    "departmentId": "ho-hap"
+  },
+  {
+    "id": "bs-le-thi-thuy",
+    "name": "BS. Lê Thị Thủy",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Viêm khớp dạng thấp, lupus ban đỏ",
+    "experience": 21,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Lê Thị Thủy là chuyên gia về bệnh khớp tự miễn với 21 năm kinh nghiệm. Bà được đào tạo chuyên sâu tại Nhật Bản về điều trị viêm khớp dạng thấp bằng thuốc sinh học thế hệ mới.",
+    "departmentId": "co-xuong-khop"
+  },
+  {
+    "id": "bs-nguyen-thanh-nam",
+    "name": "BS. Nguyễn Thành Nam",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Thoát vị đĩa đệm, bệnh lý cột sống",
+    "experience": 16,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Nguyễn Thành Nam chuyên điều trị bệnh lý cột sống và thoát vị đĩa đệm với 16 năm kinh nghiệm. Ông có nhiều kinh nghiệm tư vấn phục hồi chức năng và phòng ngừa tái phát cho bệnh nhân đau lưng mãn tính.",
+    "departmentId": "co-xuong-khop"
+  },
+  {
+    "id": "bs-trinh-van-duc",
+    "name": "BS. Trịnh Văn Đức",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Loãng xương, gout, viêm khớp thoái hóa",
+    "experience": 13,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Trịnh Văn Đức chuyên về loãng xương và gout với 13 năm kinh nghiệm. Ông được đánh giá cao trong tư vấn chế độ ăn uống, lối sống và điều trị dự phòng tái phát gout cho bệnh nhân trung cao tuổi.",
+    "departmentId": "co-xuong-khop"
+  },
+  {
+    "id": "bs-dang-thi-hien",
+    "name": "BS. Đặng Thị Hiền",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Đột quỵ não, bệnh mạch máu não",
+    "experience": 26,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Đặng Thị Hiền là chuyên gia đột quỵ và bệnh mạch máu não với 26 năm kinh nghiệm. Bà là thành viên Ủy ban Đột quỵ châu Á - Thái Bình Dương và đã cứu sống hàng trăm bệnh nhân đột quỵ cấp.",
+    "departmentId": "than-kinh"
+  },
+  {
+    "id": "bs-cao-xuan-binh",
+    "name": "BS. Cao Xuân Bình",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Đau đầu mãn tính, động kinh",
+    "experience": 18,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Cao Xuân Bình chuyên điều trị đau đầu mãn tính và động kinh với 18 năm kinh nghiệm. Ông có nhiều kinh nghiệm điều trị migraine kháng trị và tư vấn lối sống cho bệnh nhân đau đầu mãn tính.",
+    "departmentId": "than-kinh"
+  },
+  {
+    "id": "bs-mai-thu-huong",
+    "name": "BS. Mai Thu Hương",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Bệnh Parkinson, rối loạn vận động",
+    "experience": 14,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Mai Thu Hương chuyên về bệnh Parkinson và rối loạn vận động với 14 năm kinh nghiệm. Bà được đào tạo chuyên sâu tại Hàn Quốc về sử dụng Deep Brain Stimulation trong điều trị Parkinson.",
+    "departmentId": "than-kinh"
+  },
+  {
+    "id": "bs-vu-thi-quynh",
+    "name": "BS. Vũ Thị Quỳnh",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Chàm, vảy nến, bệnh da tự miễn",
+    "experience": 20,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Vũ Thị Quỳnh là chuyên gia da liễu với 20 năm kinh nghiệm, đặc biệt về chàm và vảy nến. Bà được đào tạo tại Pháp và là người đầu tiên áp dụng liệu pháp sinh học Dupilumab điều trị chàm nặng tại Việt Nam.",
+    "departmentId": "da-lieu"
+  },
+  {
+    "id": "bs-pham-hong-quan",
+    "name": "BS. Phạm Hồng Quân",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Mụn trứng cá, nám da, thẩm mỹ da",
+    "experience": 15,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Phạm Hồng Quân chuyên về điều trị mụn trứng cá và nám da với 15 năm kinh nghiệm. Ông có kinh nghiệm sử dụng laser và công nghệ cao trong điều trị các vấn đề về thẩm mỹ da không xâm lấn.",
+    "departmentId": "da-lieu"
+  },
+  {
+    "id": "bs-dinh-thi-lan-anh",
+    "name": "BS. Đinh Thị Lan Anh",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Dị ứng da, nổi mề đay, viêm da tiếp xúc",
+    "experience": 11,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Đinh Thị Lan Anh chuyên điều trị dị ứng da và viêm da tiếp xúc với 11 năm kinh nghiệm. Bà có nhiều kinh nghiệm xác định dị nguyên và tư vấn phòng ngừa tái phát cho bệnh nhân dị ứng da mãn tính.",
+    "departmentId": "da-lieu"
+  },
+  {
+    "id": "bs-tran-van-khanh",
+    "name": "BS. Trần Văn Khánh",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Glôcôm, phẫu thuật mắt, ghép giác mạc",
+    "experience": 23,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Trần Văn Khánh là chuyên gia phẫu thuật mắt với 23 năm kinh nghiệm, đặc biệt về điều trị glôcôm và ghép giác mạc. Ông đã thực hiện hơn 8.000 ca phẫu thuật mắt và được đào tạo tại Singapore.",
+    "departmentId": "mat"
+  },
+  {
+    "id": "bs-nguyen-minh-chau",
+    "name": "BS. Nguyễn Minh Châu",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Đục thủy tinh thể, khúc xạ mắt",
+    "experience": 17,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Nguyễn Minh Châu chuyên về điều trị đục thủy tinh thể và tật khúc xạ với 17 năm kinh nghiệm. Bà có nhiều kinh nghiệm phẫu thuật Phaco và tư vấn chọn kính nội nhãn phù hợp cho từng bệnh nhân.",
+    "departmentId": "mat"
+  },
+  {
+    "id": "bs-ly-quang-huy",
+    "name": "BS. Lý Quang Huy",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Bệnh lý võng mạc, đái tháo đường mắt",
+    "experience": 13,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Lý Quang Huy chuyên về bệnh lý võng mạc và biến chứng mắt do tiểu đường với 13 năm kinh nghiệm. Ông được đánh giá cao trong chẩn đoán sớm và điều trị laser võng mạc cho bệnh nhân đái tháo đường.",
+    "departmentId": "mat"
+  },
+  {
+    "id": "bs-ha-thi-phuong",
+    "name": "BS. Hà Thị Phương",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Phẫu thuật tai, cấy ốc tai điện tử",
+    "experience": 22,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Hà Thị Phương là chuyên gia tai mũi họng với 22 năm kinh nghiệm, đặc biệt về phẫu thuật tai và cấy ốc tai điện tử. Bà đã thực hiện nhiều ca cấy ốc tai thành công cho bệnh nhân điếc bẩm sinh.",
+    "departmentId": "tai-mui-hong"
+  },
+  {
+    "id": "bs-nguyen-quoc-viet",
+    "name": "BS. Nguyễn Quốc Việt",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Viêm xoang mãn tính, polyp mũi",
+    "experience": 16,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Nguyễn Quốc Việt chuyên điều trị viêm xoang mãn tính và polyp mũi bằng nội soi với 16 năm kinh nghiệm. Ông có nhiều kinh nghiệm phẫu thuật nội soi xoang chức năng (FESS) với tỷ lệ thành công cao.",
+    "departmentId": "tai-mui-hong"
+  },
+  {
+    "id": "bs-do-thi-bich-ngoc",
+    "name": "BS. Đỗ Thị Bích Ngọc",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Bệnh lý họng, thanh quản, ung thư vòm họng",
+    "experience": 12,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Đỗ Thị Bích Ngọc chuyên về bệnh lý họng và thanh quản với 12 năm kinh nghiệm. Bà có kinh nghiệm phát hiện sớm các tổn thương tiền ung thư vùng họng và tư vấn điều trị ung thư vòm họng giai đoạn sớm.",
+    "departmentId": "tai-mui-hong"
+  },
+  {
+    "id": "bs-nguyen-thi-kim-oanh",
+    "name": "BS. Nguyễn Thị Kim Oanh",
+    "title": "Tiến sĩ, Bác sĩ chuyên khoa II",
+    "specialty": "Sơ sinh, bệnh lý trẻ sơ sinh",
+    "experience": 24,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Nguyễn Thị Kim Oanh là chuyên gia hàng đầu về nhi khoa và bệnh lý sơ sinh với 24 năm kinh nghiệm. Bà được đào tạo chuyên sâu tại Australia về chăm sóc trẻ sinh non và các bệnh lý phức tạp ở trẻ sơ sinh.",
+    "departmentId": "nhi-khoa"
+  },
+  {
+    "id": "bs-pham-tuan-anh",
+    "name": "BS. Phạm Tuấn Anh",
+    "title": "Thạc sĩ, Bác sĩ chuyên khoa I",
+    "specialty": "Hô hấp nhi, viêm phế quản, hen trẻ em",
+    "experience": 15,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Phạm Tuấn Anh chuyên về bệnh hô hấp ở trẻ em với 15 năm kinh nghiệm. Ông có nhiều kinh nghiệm điều trị hen phế quản, viêm phế quản tái phát và hướng dẫn cha mẹ cách chăm sóc trẻ mắc bệnh hô hấp mãn tính.",
+    "departmentId": "nhi-khoa"
+  },
+  {
+    "id": "bs-le-ngoc-bao",
+    "name": "BS. Lê Ngọc Bảo",
+    "title": "Bác sĩ chuyên khoa I",
+    "specialty": "Tiêu hóa nhi, dinh dưỡng trẻ em",
+    "experience": 11,
+    "avatarUrl": null,
+    "bio": "Bác sĩ Lê Ngọc Bảo chuyên về tiêu hóa nhi và dinh dưỡng trẻ em với 11 năm kinh nghiệm. Bà được đánh giá cao trong tư vấn dinh dưỡng, điều trị suy dinh dưỡng và rối loạn tiêu hóa ở trẻ em các độ tuổi.",
+    "departmentId": "nhi-khoa"
+  }
+]

@@ -1,0 +1,99 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id           String        @id
+  name         String
+  age          Int
+  gender       String
+  avatarUrl    String?
+  medicalNotes String?
+  appointments Appointment[]
+  feedback     Feedback[]
+  createdAt    DateTime      @default(now())
+}
+
+model Department {
+  id           String        @id
+  name         String
+  description  String
+  symptoms     String[]
+  icon         String?
+  doctors      Doctor[]
+  appointments Appointment[]
+}
+
+model Doctor {
+  id           String        @id
+  name         String
+  title        String
+  specialty    String
+  experience   Int
+  avatarUrl    String?
+  bio          String
+  departmentId String
+  department   Department    @relation(fields: [departmentId], references: [id])
+  appointments Appointment[]
+}
+
+model Appointment {
+  id           String     @id @default(cuid())
+  userId       String
+  user         User       @relation(fields: [userId], references: [id])
+  doctorId     String
+  doctor       Doctor     @relation(fields: [doctorId], references: [id])
+  departmentId String
+  department   Department @relation(fields: [departmentId], references: [id])
+  scheduledAt  DateTime
+  status       String
+  reason       String?
+  notes        String?
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+}
+
+model Feedback {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  messageId String
+  rating    String
+  reason    String?
+  query     String
+  response  String
+  toolsUsed Json
+  createdAt DateTime @default(now())
+}
+
+model Branch {
+  id       String   @id
+  name     String
+  address  String
+  city     String
+  phone    String
+  lat      Float
+  lng      Float
+  services String[]
+}
+
+model Faq {
+  id       String   @id @default(cuid())
+  question String
+  answer   String
+  keywords String[]
+  category String
+}
+
+model PreparationGuide {
+  id           String   @id
+  examType     String
+  title        String
+  instructions String[]
+  duration     String
+  notes        String?
+}

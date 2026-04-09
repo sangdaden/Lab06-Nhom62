@@ -1,0 +1,72 @@
+[
+  {
+    "id": "noi-tong-quat",
+    "name": "Khoa Nội tổng quát",
+    "description": "Khám và điều trị toàn diện các bệnh lý nội khoa, sàng lọc sức khỏe định kỳ và quản lý bệnh mãn tính.",
+    "symptoms": ["sốt", "mệt mỏi", "đau đầu", "chóng mặt", "mất ngủ", "sụt cân", "khó chịu toàn thân", "tăng huyết áp", "đường huyết cao"],
+    "icon": "Stethoscope"
+  },
+  {
+    "id": "tieu-hoa",
+    "name": "Khoa Tiêu hóa",
+    "description": "Chẩn đoán và điều trị các bệnh lý đường tiêu hóa, gan, mật, tụy bằng các kỹ thuật nội soi hiện đại.",
+    "symptoms": ["đau bụng", "buồn nôn", "tiêu chảy", "táo bón", "ợ chua", "khó tiêu", "đầy hơi", "nôn mửa", "phân có máu", "vàng da"],
+    "icon": "Activity"
+  },
+  {
+    "id": "tim-mach",
+    "name": "Khoa Tim mạch",
+    "description": "Thăm khám, chẩn đoán và điều trị các bệnh lý tim mạch, huyết áp, rối loạn nhịp tim và mạch vành.",
+    "symptoms": ["đau ngực", "khó thở", "hồi hộp", "tim đập nhanh", "phù chân", "tím tái", "ngất xỉu", "tăng huyết áp", "đau đầu"],
+    "icon": "Heart"
+  },
+  {
+    "id": "ho-hap",
+    "name": "Khoa Hô hấp",
+    "description": "Điều trị các bệnh lý đường hô hấp trên và dưới, bao gồm hen suyễn, COPD, viêm phổi và các bệnh phổi mãn tính.",
+    "symptoms": ["ho", "khó thở", "thở khò khè", "đau ngực", "ho ra máu", "sổ mũi", "đau họng", "tức ngực", "khó thở khi gắng sức"],
+    "icon": "Wind"
+  },
+  {
+    "id": "co-xuong-khop",
+    "name": "Khoa Cơ xương khớp",
+    "description": "Khám và điều trị các bệnh lý xương khớp, cột sống, viêm khớp, loãng xương và chấn thương cơ xương.",
+    "symptoms": ["đau khớp", "sưng khớp", "cứng khớp buổi sáng", "đau lưng", "đau cổ", "đau vai", "tê bì chân tay", "yếu cơ", "hạn chế vận động"],
+    "icon": "Bone"
+  },
+  {
+    "id": "than-kinh",
+    "name": "Khoa Thần kinh",
+    "description": "Chẩn đoán và điều trị các bệnh lý thần kinh trung ương và ngoại biên, đột quỵ, đau đầu mãn tính và rối loạn vận động.",
+    "symptoms": ["đau đầu", "chóng mặt", "tê bì", "yếu liệt", "run tay", "mất thăng bằng", "mất trí nhớ", "co giật", "nói khó", "nhìn đôi"],
+    "icon": "Brain"
+  },
+  {
+    "id": "da-lieu",
+    "name": "Khoa Da liễu",
+    "description": "Khám và điều trị các bệnh lý da, tóc, móng và các bệnh lây truyền qua đường tình dục liên quan đến da.",
+    "symptoms": ["nổi mẩn", "ngứa da", "phát ban", "mụn trứng cá", "nám da", "rụng tóc", "vảy nến", "chàm", "dị ứng da", "móng biến dạng"],
+    "icon": "Layers"
+  },
+  {
+    "id": "mat",
+    "name": "Khoa Mắt",
+    "description": "Khám sàng lọc, điều trị các bệnh lý về mắt, phẫu thuật đục thủy tinh thể, điều trị glôcôm và tật khúc xạ.",
+    "symptoms": ["mờ mắt", "đau mắt", "đỏ mắt", "chảy nước mắt", "nhìn đôi", "mắt khô", "chói sáng", "nhìn thấy đốm đen", "giảm thị lực"],
+    "icon": "Eye"
+  },
+  {
+    "id": "tai-mui-hong",
+    "name": "Khoa Tai - Mũi - Họng",
+    "description": "Chẩn đoán và điều trị các bệnh lý tai, mũi, họng, thanh quản và các bệnh liên quan đến thính giác.",
+    "symptoms": ["đau họng", "ngạt mũi", "chảy mũi", "ù tai", "nghe kém", "đau tai", "viêm xoang", "khàn tiếng", "nuốt đau", "polyp mũi"],
+    "icon": "Ear"
+  },
+  {
+    "id": "nhi-khoa",
+    "name": "Khoa Nhi",
+    "description": "Chăm sóc sức khỏe toàn diện cho trẻ em từ sơ sinh đến 15 tuổi, bao gồm tiêm chủng, dinh dưỡng và điều trị bệnh nhi.",
+    "symptoms": ["sốt trẻ em", "ho trẻ em", "tiêu chảy trẻ em", "chậm tăng cân", "phát ban trẻ em", "khóc nhiều", "bú kém", "co giật sốt", "viêm phổi trẻ em"],
+    "icon": "Baby"
+  }
+]
