@@ -18,7 +18,7 @@ Trong ngày hackathon, team cần hoàn thành:
 |------|---------------|----------------|----------------|
 | **Sang** | Planner | Chốt problem statement, narrative, canvas | `spec-final.md` phần problem, canvas, demo story |
 | **Người 2** | UX / Prototype design | Vẽ flow, wireframe, mock UI | Figma / sketch / mock screens |
-| **Người 3** | AI / Prompt engineer | Viết prompt, test LLM, logic agent | prompt test log, system prompt, sample outputs |
+| **Dũng** | AI / Prompt engineer | Viết prompt, test LLM, logic agent | prompt test log, system prompt, sample outputs |
 | **Người 4** | Frontend / Integration | Build app/demo flow, nối UI với data mock/LLM | prototype chạy được |
 | **Người 5** | Eval / QA / Demo ops | Metrics, failure modes, ROI, test cases, backup demo | bảng metrics, failure modes, ROI, video/screenshot backup |
 
